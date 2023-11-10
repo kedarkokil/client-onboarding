@@ -1,0 +1,12 @@
+ [
+    { 
+      "image": "../../assets/userIcon.JPG", 
+      "header": "For myself", 
+      "text": "Write better. Think more clearly. Stay organized" 
+    },
+    { 
+    "image": "../../assets/teamIcon.JPG", 
+    "header": "With my team", 
+    "text": "Wikis, docs, tasks & projects, all in one place" 
+    }
+]

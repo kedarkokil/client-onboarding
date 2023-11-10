@@ -1,0 +1,98 @@
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoName{
+    margin-top: 20px;
+}
+
+.nameLabel{
+    text-align: left;
+}
+
+::ng-deep .form-control.is-invalid, .was-validated .form-control:invalid{
+    background-image: none;
+}
+
+.createBtnMl{
+    margin-left: 15px;
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin:2rem;
+}
+
+.planningCards{
+    display: flex;
+}
+
+.textCenter{
+    text-align: center;
+    img {
+        height: 100px;
+        width: 120px;
+    }
+}
+
+.workSpaceLable{
+    text-align: left;
+}
+
+.firstPage{
+        display: flex;
+        justify-content: flex-end;
+        align-items: stretch;
+        flex-direction: column;
+        input{
+            padding: 15px;
+            margin-bottom: 20px;
+            margin-top: 5px;
+            border-radius: 5px;
+        }  
+        button{
+            background-color:#3b0aad;
+            color: white;
+            padding: 10px 0px;
+            margin-top: 10px;
+            
+        } 
+        .error{
+            color: red;
+        }
+    }
+.card{
+       text-align: left;
+        img{
+            height: 30px;
+            width: 30px;
+        }
+    }
+
+.borderNone{
+    border: none;
+}   
+
+.textOpacity{
+    opacity: 0.5;
+}
+
+.cardSpace{
+    margin-left: 15px;
+}
+
+
+    
+
+
+   
+    
+   
+    
+    
